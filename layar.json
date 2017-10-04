@@ -6,7 +6,7 @@
       "anchor": {
         "geolocation": {
           "lat": 17.066332, 
-          "lon": 96.735707
+          "lon": -96.735707
         }
       }, 
       "icon": {
@@ -21,7 +21,7 @@
       "anchor": {
         "geolocation": {
           "lat": 17.063157, 
-          "lon": 96.732135
+          "lon": -96.732135
         }
       }, 
       "icon": {
@@ -36,7 +36,7 @@
       "anchor": {
         "geolocation": {
           "lat": 17.069712, 
-          "lon": 96.721539
+          "lon": -96.721539
         }
       }, 
       "icon": {
@@ -51,7 +51,7 @@
       "anchor": {
         "geolocation": {
           "lat": 17.068256, 
-          "lon": 96.719543
+          "lon": -96.719543
         }
       }, 
       "icon": {
