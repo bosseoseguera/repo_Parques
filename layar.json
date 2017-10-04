@@ -1,0 +1,67 @@
+{
+  "errorCode": 0, 
+  "errorString": "ok", 
+  "hotspots": [
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.066332, 
+          "lon": 96.735707
+        }
+      }, 
+      "icon": {
+        "url": "https://github.com/bosseoseguera/layar_practica/blob/master/madero.png"
+      },
+      "id": 1, 
+      "text": {
+        "title": "Parque Jardin Francisco I. Madero "
+      }
+    },
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.063157, 
+          "lon": 96.732135
+        }
+      }, 
+      "icon": {
+        "url": "https://github.com/bosseoseguera/layar_practica/blob/master/morelos.png"
+      },
+      "id": 2, 
+      "text": {
+        "title": "Parque Jardin Morelos "
+      }
+    }, 
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.069712, 
+          "lon": 96.721539
+        }
+      }, 
+      "icon": {
+        "url": "https://github.com/bosseoseguera/layar_practica/blob/master/conza2.png"
+      },
+      "id": 3, 
+      "text": {
+        "title": "Parque Jardin Conzati "
+      }
+    },
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.068256, 
+          "lon": 96.719543
+        }
+      }, 
+      "icon": {
+        "url": "https://github.com/bosseoseguera/layar_practica/blob/master/llano.png"
+      },
+      "id": 4, 
+      "text": {
+        "title": "Parque Jardin El llano "
+      }
+    }
+    ],
+  "layer": "parquesoaxac8ymp "
+}
