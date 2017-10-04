@@ -10,7 +10,7 @@
         }
       }, 
       "icon": {
-        "url": "https://github.com/bosseoseguera/layar_practica/blob/master/madero.png"
+        "url": "https://raw.githubusercontent.com/bosseoseguera/layar_practica/master/madero.png"
       },
       "id": 1, 
       "text": {
@@ -25,7 +25,7 @@
         }
       }, 
       "icon": {
-        "url": "https://github.com/bosseoseguera/layar_practica/blob/master/morelos.png"
+        "url": "https://raw.githubusercontent.com/bosseoseguera/layar_practica/master/morelos.png"
       },
       "id": 2, 
       "text": {
@@ -40,7 +40,7 @@
         }
       }, 
       "icon": {
-        "url": "https://github.com/bosseoseguera/layar_practica/blob/master/conza2.png"
+        "url": "https://raw.githubusercontent.com/bosseoseguera/layar_practica/master/conza2.png"
       },
       "id": 3, 
       "text": {
@@ -55,7 +55,7 @@
         }
       }, 
       "icon": {
-        "url": "https://github.com/bosseoseguera/layar_practica/blob/master/llano.png"
+        "url": "https://raw.githubusercontent.com/bosseoseguera/layar_practica/master/llano.png"
       },
       "id": 4, 
       "text": {
